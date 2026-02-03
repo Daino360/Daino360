@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Stefano 👋
 
-<!--
-**Daino360/Daino360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & ML Engineer | Optimization & Web Development  
+Passionate about algorithms, clean code, and practical projects.
 
-Here are some ideas to get you started:
+### 🔹 Skills
+- Languages: Python, C++, JavaScript, HTML, CSS  
+- Tools & Frameworks: Firebase, Pytorch, Anaconda, Scikit-learn, Tensorflow, Jupyter, Git  
+- Areas: Machine Learning, Deep Learning, Optimization, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Selected Projects
+- **Aladdin** – Master thesis on training and evaluating intelligent agents in a generative world model
+- **PWOptimization** – Comparison between Frank-wolfe and SMO in SVM dual optimization
+- **DLA-Labs** – Lab exercises on machine learning and optimization  
+- **MovieNight** – Personal movie watchlist web app (JS, HTML, CSS, Firebase)
+
+---
+
+Feel free to explore my repositories or reach out via LinkedIn for collaboration opportunities.
+Linkedin [https://www.linkedin.com/in/stefano-dainelli/]
