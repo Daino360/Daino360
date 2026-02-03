@@ -1,11 +1,10 @@
+# Hi, I'm Stefano 👋
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
-
-# Hi, I'm Stefano 👋
 
 AI & ML Engineer | Optimization & Web Development  
 Passionate about algorithms, clean code, and practical projects.
