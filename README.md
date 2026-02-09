@@ -18,7 +18,7 @@ Passionate about algorithms, clean code, and practical projects.
 - [**Aladdin**](https://github.com/Daino360/Aladdin) – Master thesis on training and evaluating intelligent agents in a generative world model
 - [**PWOptimization**](https://github.com/Daino360/PWOptimization) – Comparison between Frank-wolfe and SMO in SVM dual optimization
 - [**DLA-Labs**](https://github.com/Daino360/DLA-Labs) – Lab exercises on machine learning and optimization
-- [**RPG-LLM**](https://github.com/Daino360/RPG_LLM) - Personal project about QA a role-playing manual pdf
+- [**RPG-LLM**](https://github.com/Daino360/RPG-LLM) - Personal project about QA a role-playing manual pdf
 - [**MovieNight**](https://github.com/Daino360/MovieNight) – Personal movie watchlist web app (JS, HTML, CSS, Firebase)
 
 ---
